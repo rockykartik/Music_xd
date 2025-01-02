@@ -168,10 +168,10 @@ HELP_17 = """
 <code>/gcast -user hii</code>
 
 <code>/addpro</code> : ʀᴇᴘʟᴀʏ ᴛᴏ ᴜꜱᴇʀ/ᴜꜱᴇʀɪᴅ/ᴜꜱᴇʀɴᴀᴍᴇ ᴅᴀʏꜱ.(ᴏᴡɴᴇʀ)
-<code>/addpro @SHIVANG_MISHRA_OP</code>
+<code>/addpro @</code>
 
 <code>/rmpro</code> :ʀᴇᴘʟᴀʏ ᴛᴏ ᴜꜱᴇʀ/ᴜꜱᴇʀɪᴅ/ᴜꜱᴇʀɴᴀᴍᴇ.(ᴏᴡɴᴇʀ)
-<code>/addpro @SHIVANG_MISHRA_OP</code>
+<code>/addpro @</code>
 
 <code>/prolists</code> : ɢᴇᴛ ᴀʟʟ sᴜʙsᴄʀɪᴘᴛɪᴏɴ ᴜꜱᴇʀꜱ ʟɪꜱᴛꜱ.
 """
